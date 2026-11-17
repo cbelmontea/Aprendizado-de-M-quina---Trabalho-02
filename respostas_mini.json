@@ -1,0 +1,399 @@
+{
+ "info": {
+  "gerador": "mini-transformer",
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "hash_perguntas": "8c1870aa859db84c502fc879888a93d3f38cc93029805dc9b7c73d9526d1708c",
+  "parametros": 806656,
+  "passos_treino": 2000,
+  "tempo_treino_min": 2.24,
+  "historico_treino": [
+   [
+    1,
+    4.757134366035461,
+    4.757218384742737,
+    1
+   ],
+   [
+    250,
+    2.624724805355072,
+    2.6086270570755006,
+    16
+   ],
+   [
+    500,
+    2.3072630405426025,
+    2.2922419786453245,
+    31
+   ],
+   [
+    750,
+    2.2406458616256715,
+    2.2127450108528137,
+    46
+   ],
+   [
+    1000,
+    2.1997466564178465,
+    2.195645105838776,
+    62
+   ],
+   [
+    1250,
+    2.1868817806243896,
+    2.1866533041000364,
+    79
+   ],
+   [
+    1500,
+    2.1608129262924196,
+    2.161665940284729,
+    97
+   ],
+   [
+    1750,
+    2.1542824149131774,
+    2.1630821228027344,
+    116
+   ],
+   [
+    2000,
+    2.1754586935043334,
+    2.1601289749145507,
+    134
+   ]
+  ],
+  "k": 1,
+  "config_chunk": {
+   "chunk_size": 400,
+   "chunk_overlap": 60
+  },
+  "gerado_em": "2026-11-13 01:16"
+ },
+ "respostas": [
+  {
+   "id": "Q01",
+   "gerador": "mini-transformer",
+   "resposta": "Astantas pada s pos cal daticos ome o endo e dantasemua pose eis es de de s s noso pecutas possecos ntencoro alamana do de\nel.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "não foi esse necessariamente o seu primeiro\nlar. Um dente de gato datado de 9000 a. C. foi\nencontrado em Jericó, Israel. Não existiam\ngatos-bravos em Chipre, por isso os vestígios\nde felinos anteriores a 5000 a. C. descobertos\nEstemural datadodec.1290-1180a.C.edescobertoem\nBeniHasan,noEgipto,éa primeiraobradearteemquese\nvêumgatonumambientedoméstico,sobumacadeira.",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 22,
+     "chunk_id": "pequeno-9",
+     "score": 0.6351
+    }
+   ],
+   "lat_recuperacao_s": 0.015118042000040077,
+   "lat_geracao_s": 0.6023178119999102,
+   "lat_total_s": 0.6174358539999503
+  },
+  {
+   "id": "Q02",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s pos cal daticos ome o endo e dantasemua pose eis es de de s s noso pecutas possem pantencoro alamana do de\nel.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "um homem foi sepultado com uma gazela e\num pequeno gato; os egiptólogos crêem que\na gazela seria a sua refeição funerária e o gato\na sua companhia.\nAs primeiras comunidades humanas\nestabelecidas ao longo das férteis margens do\nrio Nilo surgiram cerca de 4000 a. C.\nNos celeiros e silos dessas povoações\nabundavam roedores e outros alimentos,\nabrigo e protecção contra os predadores de",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 22,
+     "chunk_id": "pequeno-11",
+     "score": 0.6536
+    }
+   ],
+   "lat_recuperacao_s": 0.017514473000119324,
+   "lat_geracao_s": 0.5552613629999996,
+   "lat_total_s": 0.5727758360001189
+  },
+  {
+   "id": "Q03",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s pos cal da do a omeumento de dantasemua pose eis es de de s s noso per pas possem pantere do alamana do.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "ao verde, mas não ao vermelho. Nos ensaios\nrealizados, os gatos fizeram a distinção entre\nverde, azul e amarelo, mas não reconheceram o\nvermelho. Assim, a cor parece não ter qualquer\nsignificado no dia-a-dia dos gatos.\nDetecçãodomovimento\nOs olhos do gato são mais sensíveis ao\nmovimento do que os nossos porque têm na\nretina maior número de bastonetes, as células\nbs olhos do gato",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 34,
+     "chunk_id": "pequeno-89",
+     "score": 0.8544
+    }
+   ],
+   "lat_recuperacao_s": 0.030299264999939624,
+   "lat_geracao_s": 0.5781306760000007,
+   "lat_total_s": 0.6084299409999403
+  },
+  {
+   "id": "Q04",
+   "gerador": "mini-transformer",
+   "resposta": "sitantas padadinicaltelodadicos omero, pos elatatame, de, peseis, carendes?\nResposta: co s possecos nco coro alganirido de\nelicouralatr doss duntaros\na s deleto",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "de bastonetes também se deve a capacidade de\nver com pouca luz.\nO gato tem uma visão de baixa resolução\n- não distingue pormenores com nitidez\nporque o cristalino do seu olho é grande, a fim",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 34,
+     "chunk_id": "pequeno-92",
+     "score": 0.8161
+    }
+   ],
+   "lat_recuperacao_s": 0.027392559999952937,
+   "lat_geracao_s": 0.7337422330001573,
+   "lat_total_s": 0.7611347930001102
+  },
+  {
+   "id": "Q05",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s pos cal daticos ome o endo e dantasemua pose eis es de de s s noso pecutas possecos ntencoro alamana do de\nel.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "nocivas ou outros agentes causadores de\ndoenças que o gato pode inadvertidamente\ningerir. O alimento é consumido, digerido,\nutilizado e excretado no prazo de 24 horas.\nIngestãoedigestão\nOs dentes do gato despedaçam carne e a\nlíngua farpada retira-a dos ossos. A saliva liga\ne amolece os alimentos, para que possam ser\nengolidos.\nOs alimentos passam pelo esófago e entram\n~ As glândulas",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 40,
+     "chunk_id": "pequeno-129",
+     "score": 0.8118
+    }
+   ],
+   "lat_recuperacao_s": 0.014600282000174047,
+   "lat_geracao_s": 0.5741622189998452,
+   "lat_total_s": 0.5887625010000193
+  },
+  {
+   "id": "Q06",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s po atel datico domeume po de dantame s ce pe eis e deco\npes s noso per pas po sem pante coro alamana do.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "Os Pêlos Compridos de Pontas Coloridas são expansivos e óptimos\ncompanheiros. A precocidade sexual do Siamês também se manifesta\nnestes gatos.\nHistória Nos EUA, na década de 30, um Pêlo Comprido preto foi\ncruzado com um Siamês. A primeira geração era constituída\nunicamente por gatos de pêlo comprido\nmas no cruzamento seguinte nasceu um\ngato de pêlo comprido e pontas coloridas",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 104,
+     "chunk_id": "pequeno-436",
+     "score": 0.7692
+    }
+   ],
+   "lat_recuperacao_s": 0.014639612000109992,
+   "lat_geracao_s": 0.5723828139998659,
+   "lat_total_s": 0.5870224259999759
+  },
+  {
+   "id": "Q07",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s pos cal daticos ome o endo e díntasexides.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "sexualmente mais precoces, chegando a acasalar aos cinco meses.\nHistória O Siamês teve origem numa mutação ocorrida na Ásia há\nmais de 500 anos. Venerado pelos monges budistas e pela realeza do\nSião (hoje Tailândia), chegou ao Ocidente em finais do século XIX.\nA raça continua a ser o Pêlo Curto mais popular entre os aceites pela\nCFA. Novas colorações e as listas dos tabbies aumentaram o leque",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 96,
+     "chunk_id": "pequeno-399",
+     "score": 0.7191
+    }
+   ],
+   "lat_recuperacao_s": 0.015202283999997235,
+   "lat_geracao_s": 0.2689760920000026,
+   "lat_total_s": 0.28417837599999984
+  },
+  {
+   "id": "Q08",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ces a s pos cal daticos ome o endo e dantasemua pose eis es de de s s noso pecutas possem pantincoro alamana do de\nel.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "106 Raças\nRagdoll.Um bom gigante\n.Caçadorpoucoentusiástico\n.Recém-chegadoà CFA\nConhecido pela sua natureza plácida, o Ragdoll é grande e pesado e a\npelagem não se emaranha tão facilmente como a dos outros Pêlos\nCompridos (verp. 103). Os Ragdoll nascem brancos e desenvolvem a\ncor e o padrão ao longo de dois anos, passando a ter pontas coloridas.",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 106,
+     "chunk_id": "pequeno-445",
+     "score": 0.5895
+    }
+   ],
+   "lat_recuperacao_s": 0.017283851999991384,
+   "lat_geracao_s": 0.5909300179998809,
+   "lat_total_s": 0.6082138699998723
+  },
+  {
+   "id": "Q09",
+   "gerador": "mini-transformer",
+   "resposta": "Astains des a s pos cal daticos omeumentos e dantasemua pose eis es de de s s noso per pas possem pantere do alamana do.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "Reconhecida na América do Norte, a raça Curl é a primeira a ser aceite\npela CFA em duas versões determinadas\npelo comprimento da pelagem. Os\nprimeiros Curls introduzidos na\nEuropa chegaram à Grã-Bretanha em\nExpressãomeiga\ne espantada\nConstituição\nsemiestrangeira\nlocal de origem\nEstados Unidos\nData de origem\nPeso\nTemperamento\nSossegado e afável\nColoração Aceita-se\numa grande variedade",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 112,
+     "chunk_id": "pequeno-474",
+     "score": 0.5552
+    }
+   ],
+   "lat_recuperacao_s": 0.017165793999993184,
+   "lat_geracao_s": 0.5536941729999398,
+   "lat_total_s": 0.570859966999933
+  },
+  {
+   "id": "Q10",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s po atel da do a o eume po de utatase s ce pe eis e dectintóve noso per pas umese de ga.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "ocorrem a intervalos de 30 segundos, o\nparto está iminente. Cerca de 70 por\ncento das crias nascem em posição\nde \"mergulho'; com a cabeça e as\npatas anteriores para a frente.\nlavagem\nUma boa mãe lava as suas crias com a\nlingua e estimula cada uma a respirar\npela primeira vez. Se tal não acontecer,\nprepare-se para intervir.\nAs contracções continuam para a expulsão",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 144,
+     "chunk_id": "pequeno-632",
+     "score": 0.6561
+    }
+   ],
+   "lat_recuperacao_s": 0.01470248000009633,
+   "lat_geracao_s": 0.5106567549998999,
+   "lat_total_s": 0.5253592349999963
+  },
+  {
+   "id": "Q11",
+   "gerador": "mini-transformer",
+   "resposta": "sitargus pada s pos cal daticos o\nPergunta: O que o texto diz sobre pendins, clos, prantas, despadiana?\nResposta: Pento de elicos alatr doss duntaros\na s deles",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "Só após as cinco semanas a gravidezdas gatas\né visível. Um pouco antes, o veterinárioconseguirá\ndizer-lhe o número de fetos em desenvolvimento.",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 142,
+     "chunk_id": "pequeno-622",
+     "score": 0.7895
+    }
+   ],
+   "lat_recuperacao_s": 0.014768997000146555,
+   "lat_geracao_s": 0.7313386229998287,
+   "lat_total_s": 0.7461076199999752
+  },
+  {
+   "id": "Q12",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ces a s poratel da do a ome o endo e dantasemua pose eis es de de s s noso pecutas possem pantencoro alamana do de\nel.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "que os gatos durem mais tempo, cerca do\ndobro dos gatos que vivem em liberdade.\nUm relógio biológico\nO envelhecimento é controlado por um\nrelógio biológico localizado na parte do\ncérebro designada hipotálamo. Com o\ntempo, a fábrica química do cérebro\nproduz menos quantidade de uma\nsubstância neuroendócrina chamada\ndopamina.\nSe a produção de dopamina se mantém,",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 158,
+     "chunk_id": "pequeno-714",
+     "score": 0.8506
+    }
+   ],
+   "lat_recuperacao_s": 0.014794365000170728,
+   "lat_geracao_s": 0.7501648129998557,
+   "lat_total_s": 0.7649591780000264
+  },
+  {
+   "id": "Q13",
+   "gerador": "mini-transformer",
+   "resposta": "Astantas pada s pos cal daticos ome o endo e dantasexides.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "maiores, dando à luz na Primavera e no Verão,\nquando o alimento abunda. Os machos estão\nsempre prontos a acasalar.\nosistemamasculino\nA puberdade felina geralmente ocorre entre os\ncinco e os nove meses; daí em diante, o sistema\nreprodutor do macho está pronto a entrar em\nacção e aguarda uma oportunidade.\nA hormona luteinizante (LH), segregada pela\nhipófise, estimula os testículos a produzir",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 42,
+     "chunk_id": "pequeno-142",
+     "score": 0.6644
+    }
+   ],
+   "lat_recuperacao_s": 0.02104218099998434,
+   "lat_geracao_s": 0.3369753239999227,
+   "lat_total_s": 0.35801750499990703
+  },
+  {
+   "id": "Q14",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ces ado pos\ncal daticos ome o, pos e dantasensasense eis es de dens s noso pecutas possecos gamacoro alamananto.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "dosgatos.Maisgravedo queisso,osvenenosque\natacamo sistemanervosoe asafecçõesda boca,\ngastrintestinaisou metabólicas,comoinsuficiência\nrenal,causamsalivaçãoexcessiva.Se o seu gato\nestiver a babar-se exageradamente e não perceber porquê, consulte imediatamente o veterinário.\nTratamento: Devem retirar-se corpos\nestranhos e melhorar as conclições dentárias.\nAs infecções bacterianas são comuns. O",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 252,
+     "chunk_id": "pequeno-1332",
+     "score": 0.7827
+    }
+   ],
+   "lat_recuperacao_s": 0.020397153999965667,
+   "lat_geracao_s": 0.7096171709999908,
+   "lat_total_s": 0.7300143249999564
+  },
+  {
+   "id": "Q15",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s pos cal daticos ome o endo e dantasemua pose eis es de de s s noso pecitas possecos ntencoro alamana do.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "FaçaecografiasaosPêlosCompridos(Persas)\nreprodutoreseaosgatoscruzadosde Persaspara\ndetectara poliquistoserenal(PR).\nProblemas do tracto urinário inferior\nA doença do tracto urinário inferior felino\n(FLUTD) é um conjunto de problemas que\nafecta a bexiga e a uretra.\nTodos os anos, cerca de 1 por cento da\npopulação felina é atingida por uma ou outra\nforma de FLUTD. Alguns desses gatos têm",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 262,
+     "chunk_id": "pequeno-1410",
+     "score": 0.8227
+    }
+   ],
+   "lat_recuperacao_s": 0.021634758999880432,
+   "lat_geracao_s": 0.7277618580001217,
+   "lat_total_s": 0.7493966170000022
+  },
+  {
+   "id": "Q16",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s pos cal daticos ome o endo e dantase sa pose eis es de de s s noso per pas possem pante coro alamana do.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "Gatos de pêlo comprido 107\nCoon de Maine.Umgatosimpático\n. Altamentesociável\n. Pelagempesada\nForte e tranquilo, o Coon de Mame é mais bonito no Inverno, quando a\nsua pesada pelagem está exuberante. Uma característica desta raça é\no miado fIequente e alegre com que saúda a sua família humana ou\nfelina. Gosta de conviver mas não é um gato dependente nem de colo.",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 107,
+     "chunk_id": "pequeno-450",
+     "score": 0.4273
+    }
+   ],
+   "lat_recuperacao_s": 0.024763275999930556,
+   "lat_geracao_s": 0.7712310859999434,
+   "lat_total_s": 0.795994361999874
+  },
+  {
+   "id": "Q17",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s poratel daticos ome o endo e dantasemua pose eis es de de s s noso per pas possem pantincoro alamana do de\nel.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "biológicas são conhecidos e devem ser\nconsiderados quando se elabora um\nPrevenção prática 217\ncalendário de vacinas. I\nNo entanto, tudo indica que o sistema \\\nimunitário dos gatos tratados com nosodos \"-\nnão fica preparado para enfrentar infecções.\nAssim, não respondem à infecção tão bem\ncomo se tivessem levado uma vacina\nbiológica de boa qualidade.\n!JSreparasao(lÊ!reméa~s homeõ,p.ático!.l",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 217,
+     "chunk_id": "pequeno-1063",
+     "score": 0.7069
+    }
+   ],
+   "lat_recuperacao_s": 0.025062777000130154,
+   "lat_geracao_s": 0.6192128629998024,
+   "lat_total_s": 0.6442756399999325
+  },
+  {
+   "id": "Q18",
+   "gerador": "mini-transformer",
+   "resposta": "Astains ntada s pos cal datico domeume po de dantame s ce pe eis e deco\npes s noso per pas po sem pantere do alamana do.",
+   "trechos": [
+    {
+     "rank": 1,
+     "texto": "Introdução 19\nIntrodução\no gato é um animal espantoso. Na América do Norte e na Europa\nexistem hoje mais gatos do que cães de companhia - o número é\nsuperior a 175 milhões. Por outro lado, há mais gatos vadios do que\ncom dono. O gato-doméstico continua a ser uma espécie auto-suficiente,\nindependente, e o animal de companhia que conhecemos pior. Esse",
+     "fonte": "manual_completo_de_gatos_-_d_r.__b_r_u_c_e__fogle.pdf",
+     "pagina": 19,
+     "chunk_id": "pequeno-0",
+     "score": 0.7117
+    }
+   ],
+   "lat_recuperacao_s": 0.01490888500006804,
+   "lat_geracao_s": 0.581831770000008,
+   "lat_total_s": 0.596740655000076
+  }
+ ]
+}
